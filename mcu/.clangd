@@ -1,0 +1,2 @@
+CompileFlags:
+    Add: [-I/usr/avr/include, -Isrc/include, -D__AVR_ATmega2560__]
